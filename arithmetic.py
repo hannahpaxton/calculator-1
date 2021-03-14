@@ -29,9 +29,15 @@ def multiply(num1, num2):
     product = num1 * num2
     return product
 
-
 def divide(num1, num2):
     """Divide the first input by the second and return the result."""
+
+    #define function for divide
+    #add quotient variable that divides num1 and num2
+    #return quotient
+
+    quotient = num1/num2
+    return quotient
 
 
 def square(num1):
