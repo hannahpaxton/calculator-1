@@ -12,6 +12,12 @@ def add(num1, num2):
 
 def subtract(num1, num2):
     """Return the second number subtracted from the first."""
+    #def variable for subtract
+    #set subtract variable to find difference between two numbers
+    #return subtract variable
+
+    difference = num1 - num2
+    return difference
 
 
 def multiply(num1, num2):
