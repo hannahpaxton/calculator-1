@@ -48,9 +48,15 @@ def square(num1):
     squared = num1 ** 2
     return squared 
 
-
 def cube(num1):
     """Return the cube of the input."""
+
+    #define variable for a cube
+    #take num1 to the third power
+    #return the cube variable
+
+    is_cubed = num1 ** 3
+    return is_cubed
 
 
 def power(num1, num2):
