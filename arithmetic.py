@@ -61,7 +61,12 @@ def cube(num1):
 
 def power(num1, num2):
     """Raise num1 to the power of num2 and return the value."""
+    #define variable for result
+    #save result of num1 raised to num2 into result
+    #return result
 
+    exponent_result = num1 ** num2
+    return exponent_result
 
 def mod(num1, num2):
     """Return the remainder of num1 / num2."""
