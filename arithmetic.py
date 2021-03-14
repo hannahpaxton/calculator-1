@@ -70,3 +70,10 @@ def power(num1, num2):
 
 def mod(num1, num2):
     """Return the remainder of num1 / num2."""
+
+    #define remainder variable
+    #capturn remainder when num1 / num2
+    #return remainder variable
+
+    remainder = num1 % num2
+    return remainder
