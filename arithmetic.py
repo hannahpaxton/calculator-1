@@ -7,8 +7,8 @@ def add(num1, num2):
     # set this variable as the sum of num1, num2. sum = num1+num2
     # return sum
 
-    sum = num1 + num2
-    return sum
+    sum_nums = num1 + num2
+    return sum_nums
 
 def subtract(num1, num2):
     """Return the second number subtracted from the first."""
@@ -22,6 +22,12 @@ def subtract(num1, num2):
 
 def multiply(num1, num2):
     """Multiply the two inputs together."""
+    #define variable for result
+    #save result of num1 multiplied by num2
+    #return result
+
+    product = num1 * num2
+    return product
 
 
 def divide(num1, num2):
